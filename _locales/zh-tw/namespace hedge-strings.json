@@ -1,0 +1,15 @@
+{
+"name": " namespace hedge ",
+"version": "0.0.1",
+"description": " I love animal ",
+"license": "MIT",
+"dependencies": {
+"core": "*"
+},
+"files": [
+"README.md",
+"main.ts",
+"_locales/zh-tw/ namespace hedge -strings.json"
+],
+"public": true
+}
